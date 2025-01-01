@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc0ZW1yajFwYWduY2QwMGNhOWIxZXByODg2OHVnbWR5dmQ5MTJ6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 💬 Ask me about **MERN, Tailwind, HTML5, CSS3, NextJS**
+- 💬 Ask me about **JAVA, SPRING BOOT, SQL, MONGO**
 
 - 📫 How to reach me **subhamsriramka01u@gmail.com**
 
